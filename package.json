@@ -1,6 +1,6 @@
 {
 	"name": "@yuler/prettier-config",
-	"version": "0.2.0",
+	"version": "0.0.0-development",
 	"description": "My personal Prettier config",
 	"main": ".prettierrc.json",
 	"files": [
@@ -9,7 +9,7 @@
 	"author": "Yu Le <is.yuler@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/yuler/prettier-config.git"
+		"url": "https://github.com/yuler/prettier-config.git"
 	},
 	"license": "MIT"
 }
