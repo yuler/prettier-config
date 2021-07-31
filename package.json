@@ -2,9 +2,9 @@
 	"name": "@yuler/prettier-config",
 	"version": "0.2.0",
 	"description": "My personal Prettier config",
-	"main": "index.json",
+	"main": ".prettierrc.json",
 	"files": [
-		"index.json"
+		".prettierrc.json"
 	],
 	"author": "Yu Le <is.yuler@gmail.com>",
 	"repository": {
